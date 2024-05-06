@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+### NAME: S ADITYA
+### REG NO:212223040007
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
